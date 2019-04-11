@@ -1,0 +1,6 @@
+C:\Users\chenxisun\source\repos\u0455173\PS6\.vs\PS6\lut\0\b\PS4\Resources\bin\Debug\Resources.dll.config
+C:\Users\chenxisun\source\repos\u0455173\PS6\.vs\PS6\lut\0\b\PS4\Resources\bin\Debug\Resources.dll
+C:\Users\chenxisun\source\repos\u0455173\PS6\.vs\PS6\lut\0\i\Resources\Debug\Resources.csprojAssemblyReference.cache
+C:\Users\chenxisun\source\repos\u0455173\PS6\.vs\PS6\lut\0\i\Resources\Debug\Resources.csproj.CoreCompileInputs.cache
+C:\Users\chenxisun\source\repos\u0455173\PS6\.vs\PS6\lut\0\i\Resources\Debug\Resources.csproj.CopyComplete
+C:\Users\chenxisun\source\repos\u0455173\PS6\.vs\PS6\lut\0\i\Resources\Debug\Resources.dll

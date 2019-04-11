@@ -1,0 +1,6 @@
+C:\Users\chenxisun\source\repos\u0455173\PS6\.vs\PS6\lut\0\i\SpreadsheetGUI\Debug\SpreadsheetGUI.csprojAssemblyReference.cache
+C:\Users\chenxisun\source\repos\u0455173\PS6\.vs\PS6\lut\0\i\SpreadsheetGUI\Debug\SpreadsheetGUI.exe.config
+C:\Users\chenxisun\source\repos\u0455173\PS6\.vs\PS6\lut\0\i\SpreadsheetGUI\Debug\SpreadsheetGUI.SpreadsheetForm.resources
+C:\Users\chenxisun\source\repos\u0455173\PS6\.vs\PS6\lut\0\i\SpreadsheetGUI\Debug\SpreadsheetGUI.Properties.Resources.resources
+C:\Users\chenxisun\source\repos\u0455173\PS6\.vs\PS6\lut\0\i\SpreadsheetGUI\Debug\SpreadsheetGUI.csproj.GenerateResource.cache
+C:\Users\chenxisun\source\repos\u0455173\PS6\.vs\PS6\lut\0\i\SpreadsheetGUI\Debug\SpreadsheetGUI.csproj.CoreCompileInputs.cache

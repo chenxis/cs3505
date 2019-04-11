@@ -1,0 +1,14 @@
+C:\Users\chenxisun\Source\Repos\u0455173\PS6\Spreadsheet\bin\Debug\netstandard2.0\Spreadsheet.deps.json
+C:\Users\chenxisun\Source\Repos\u0455173\PS6\Spreadsheet\bin\Debug\netstandard2.0\Spreadsheet.dll
+C:\Users\chenxisun\Source\Repos\u0455173\PS6\Spreadsheet\bin\Debug\netstandard2.0\Spreadsheet.pdb
+C:\Users\chenxisun\Source\Repos\u0455173\PS6\Spreadsheet\bin\Debug\netstandard2.0\DependencyGraph.dll
+C:\Users\chenxisun\Source\Repos\u0455173\PS6\Spreadsheet\bin\Debug\netstandard2.0\Formula.dll
+C:\Users\chenxisun\Source\Repos\u0455173\PS6\Spreadsheet\bin\Debug\netstandard2.0\DependencyGraph.xml
+C:\Users\chenxisun\Source\Repos\u0455173\PS6\Spreadsheet\bin\Debug\netstandard2.0\Formula.xml
+C:\Users\chenxisun\Source\Repos\u0455173\PS6\Spreadsheet\obj\Debug\netstandard2.0\Spreadsheet.csprojAssemblyReference.cache
+C:\Users\chenxisun\Source\Repos\u0455173\PS6\Spreadsheet\obj\Debug\netstandard2.0\Spreadsheet.csproj.CoreCompileInputs.cache
+C:\Users\chenxisun\Source\Repos\u0455173\PS6\Spreadsheet\obj\Debug\netstandard2.0\Spreadsheet.AssemblyInfoInputs.cache
+C:\Users\chenxisun\Source\Repos\u0455173\PS6\Spreadsheet\obj\Debug\netstandard2.0\Spreadsheet.AssemblyInfo.cs
+C:\Users\chenxisun\Source\Repos\u0455173\PS6\Spreadsheet\obj\Debug\netstandard2.0\Spreadsheet.csproj.CopyComplete
+C:\Users\chenxisun\Source\Repos\u0455173\PS6\Spreadsheet\obj\Debug\netstandard2.0\Spreadsheet.dll
+C:\Users\chenxisun\Source\Repos\u0455173\PS6\Spreadsheet\obj\Debug\netstandard2.0\Spreadsheet.pdb

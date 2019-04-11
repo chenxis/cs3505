@@ -1,0 +1,8 @@
+C:\Users\chenxisun\source\repos\u0455173\PS6\.vs\PS6\lut\0\b\Spreadsheet\Debug\netstandard2.0\Spreadsheet.deps.json
+C:\Users\chenxisun\source\repos\u0455173\PS6\.vs\PS6\lut\0\b\Spreadsheet\Debug\netstandard2.0\Spreadsheet.dll
+C:\Users\chenxisun\source\repos\u0455173\PS6\.vs\PS6\lut\0\i\Spreadsheet\Debug\netstandard2.0\Spreadsheet.csprojAssemblyReference.cache
+C:\Users\chenxisun\source\repos\u0455173\PS6\.vs\PS6\lut\0\i\Spreadsheet\Debug\netstandard2.0\Spreadsheet.csproj.CoreCompileInputs.cache
+C:\Users\chenxisun\source\repos\u0455173\PS6\.vs\PS6\lut\0\i\Spreadsheet\Debug\netstandard2.0\Spreadsheet.AssemblyInfoInputs.cache
+C:\Users\chenxisun\source\repos\u0455173\PS6\.vs\PS6\lut\0\i\Spreadsheet\Debug\netstandard2.0\Spreadsheet.AssemblyInfo.cs
+C:\Users\chenxisun\source\repos\u0455173\PS6\.vs\PS6\lut\0\i\Spreadsheet\Debug\netstandard2.0\Spreadsheet.csproj.CopyComplete
+C:\Users\chenxisun\source\repos\u0455173\PS6\.vs\PS6\lut\0\i\Spreadsheet\Debug\netstandard2.0\Spreadsheet.dll

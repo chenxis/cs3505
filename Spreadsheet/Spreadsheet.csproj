@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="DependencyGraph">
+      <HintPath>..\..\PS4\Resources\Libraries\DependencyGraph.dll</HintPath>
+    </Reference>
+    <Reference Include="Formula">
+      <HintPath>..\..\PS4\Resources\Libraries\Formula.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
